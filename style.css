@@ -43,6 +43,8 @@ img {
     padding: 5px;
     display: flex;
     align-items: center;
+    position: relative;
+    left: 35%;
 }
 a{
     text-decoration: none;
